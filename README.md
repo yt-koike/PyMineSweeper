@@ -2,6 +2,11 @@
 This application is a mine-sweeper game which works with PyGame library.
 このアプリはマインスイーパーゲームです。
 
+## How to play (遊び方)
+
+https://user-images.githubusercontent.com/42059282/203696421-baf6c28c-2345-44ca-bbcf-8e6970bf1487.mp4
+
+
 ## Controls (操作)
 - Arrow keys: Move view
 - Left click: Open the unflagged cell
